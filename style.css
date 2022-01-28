@@ -75,7 +75,7 @@ body{
 }
 .btnInput{
     width:133px;
-    color: darkgreen;
+    color: black;
     font-size: 1.3em;
     font-weight: bold;
     float: left;
@@ -95,11 +95,11 @@ body{
 }
 .button:hover{
     color: white;
-    background: linear-gradient(white, darkgreen);
-    background: -webkit-linear-gradient(white, darkgreen);
-    background: -moz-linear-gradient(white, darkgreen);
-    background: -o-linear-gradient(white, darkgreen);
-    background: -ms-linear-gradient(white, darkgreen); 
+    background: linear-gradient(white, black);
+    background: -webkit-linear-gradient(white, black);
+    background: -moz-linear-gradient(white, black);
+    background: -o-linear-gradient(white, black);
+    background: -ms-linear-gradient(white, black); 
 }
 .button:active{
     top: 4px;
